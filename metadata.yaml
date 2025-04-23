@@ -1,0 +1,38 @@
+_repo: The-end-of-the-trail-b-The-far-west-from-New-Mexico-to-British-Columbia_75697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, E. Alexander (Edward Alexander)
+    aliases:
+    - Powell, Edward Alexander
+    - Powell, E. A. (Edward Alexander)
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '3963'
+    url: http://www.gutenberg.org/2009/agents/3963
+    wikipedia: https://en.wikipedia.org/wiki/E._Alexander_Powell
+description: ''
+gutenberg_issued: '2025-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75697'
+  lccn: '14020566'
+language: en
+pgterms:marc904: https://archive.org/details/endoftrailfarwes00powell
+pgterms:marc905: 20221002082913powell
+pgterms:marc906: '1914'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bC. Scribner''s Sons, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific States -- Description and travel'
+- !lcsh 'British Columbia -- Description and travel'
+- !lcsh 'Southwest, New -- Description and travel'
+- !lcc 'F850.5'
+- GITenberg
+title: 'The end of the trail : $b The far west from New Mexico to British Columbia'
+url: http://www.gutenberg.org/ebooks/75697
