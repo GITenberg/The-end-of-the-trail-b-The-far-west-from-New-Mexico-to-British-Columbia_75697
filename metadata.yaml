@@ -1,5 +1,8 @@
 _repo: The-end-of-the-trail-b-The-far-west-from-New-Mexico-to-British-Columbia_75697
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75697-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, E. Alexander (Edward Alexander)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3963
     wikipedia: https://en.wikipedia.org/wiki/E._Alexander_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75697#The-end-of-the-trail-b-The-far-west-from-New-Mexico-to-British-Columbia
 gutenberg_issued: '2025-03-23'
 gutenberg_type: Text
 identifiers:
